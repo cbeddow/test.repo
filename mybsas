@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "Name": "Home",
+        "Address": "Thames 1542",
+        "Type": "Residence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43205213546752,
+          -34.588606900682485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "lodging",
+        "Name": "Back in BA",
+        "Address": "El Salvador",
+        "Type": "Hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.431242108345025,
+          -34.586513570294024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "Empanada Place",
+        "Address": "Godoy Cruz",
+        "Type": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.433457612991326,
+          -34.5872599325367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "Name": "Plaza Italia Subte",
+        "Address": "Santa Fe",
+        "Type": "Transit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.42155933380128,
+          -34.58153176185536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "Hong Kong Style",
+        "Address": "Barrio Chino",
+        "Type": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.44915390014648,
+          -34.557060034690444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "Name": "Andre & Pacha's House",
+        "Address": "Juncal",
+        "Type": "Residence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.40424299240112,
+          -34.58986110712737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "Sarkis",
+        "Address": "Thames",
+        "Type": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43619346618652,
+          -34.591424422456676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant",
+        "Name": "Sinior Shawarma",
+        "Address": "Honduras",
+        "Type": "Restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.432384729385376,
+          -34.58730851209527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "Name": "El Sirio",
+        "Address": "Thames",
+        "Type": "Grocery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.43364000320434,
+          -34.5898699395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "ferry",
+        "Name": "Buquebus",
+        "Address": "Puerto Madero",
+        "Type": "Transit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.36830139160156,
+          -34.597235811330734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "Name": "Retiro Bus Terminal",
+        "Address": "Retiro",
+        "Type": "Transit"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.37435245513916,
+          -34.58690220945811
+        ]
+      }
+    }
+  ]
+}
